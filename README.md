@@ -120,6 +120,7 @@ List of GAME ID's in Uplay by Ubisoft
 10424 - Tom Clancy's Rainbow Six® Siege Test Server (Steam)  
 11903 - Tom Clancy's Ghost Recon® Breakpoint  
 12737 - Tom Clancy's Ghost Recon® Breakpoint (Uplay Open + Closed Beta)  
+62412 - Tom Clancy's Ghost Recon® Breakpoint (Steam)
 
 # Prince of Persia Franchise
 11 - Prince of Persia® The Forgotten Sands™  
